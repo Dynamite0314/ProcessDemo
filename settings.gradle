@@ -1,0 +1,2 @@
+include ':app', ':processor', ':annotations', ':apt-library'
+rootProject.name='ProcessDemo'
